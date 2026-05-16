@@ -1,0 +1,8 @@
+# Fish Health and Disease Metadata
+# Format: fish_id,health_status,disease_status,disease_confidence
+# Health: good=normal, lying=abnormal behavior, dead=immobile
+# Disease: none, mild, moderate, severe
+
+0,good,none,0.95
+1,lying,moderate,0.82
+2,good,none,0.93
